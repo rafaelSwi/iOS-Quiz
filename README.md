@@ -1,5 +1,6 @@
 EN-US:
 A Quiz app, which allows you to add and manage questions. The Application is in Portuguese (Brazil).
+
 PT-BR:
 Um aplicativo de Quiz de Perguntas, que permite que você adicione e gerencia perguntas. O Aplicativo está em Português (Brasil).
 
